@@ -13,7 +13,7 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Truck, Package } from "lucide-react";
+import { Package } from "lucide-react";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { ScrollArea } from "@/components/ui/scroll-area";
 
@@ -49,6 +49,7 @@ export default function Chat() {
   }, [messages]);
 
   useEffect(() => {
+    console.log(destinationZip)
     // Send initial message
     const initialMessage: Message = {
       id: "1",

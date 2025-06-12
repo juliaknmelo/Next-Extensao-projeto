@@ -2,7 +2,6 @@
 
 import { useEffect, useRef } from "react";
 import { Button } from "@/components/ui/button";
-import { Truck } from "lucide-react";
 import { useScrollReveal } from "@/hooks/use-scroll-reveal";
 import Link from "next/link";
 import Image from "next/image";

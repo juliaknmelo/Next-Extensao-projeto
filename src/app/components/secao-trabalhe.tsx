@@ -3,7 +3,8 @@
 import { useEffect, useRef } from "react";
 import { useScrollReveal } from "@/hooks/use-scroll-reveal";
 // import { Button } from "@/components/ui/button"
-import { CheckCircle, ArrowRight, MapPin } from "lucide-react";
+import { CheckCircle, MapPin } from "lucide-react";
+import Image from "next/image";
 
 export default function WorkWithUsSection() {
   const sectionRef = useRef<HTMLElement>(null);
@@ -92,14 +93,14 @@ export default function WorkWithUsSection() {
                 Employee Testimonial
               </h3>
               <blockquote className="text-slate-600 italic">
-                "Ive been driving for LandCarrier for over 5 years now. The
+                &quot;Ive been driving for LandCarrier for over 5 years now. The
                 company truly cares about its drivers, providing us with
                 excellent equipment, support, and benefits. Its the best company
-                Ive worked for in my 15 years in the."
+                Ive worked for in my 15 years in the.&quot;
               </blockquote>
               <div className="mt-4 flex items-center gap-3">
                 <div className="w-12 h-12 rounded-full bg-slate-200 overflow-hidden">
-                  <img
+                  <Image
                     src="/placeholder.svg?height=100&width=100"
                     alt="Employee portrait"
                     className="w-full h-full object-cover"
