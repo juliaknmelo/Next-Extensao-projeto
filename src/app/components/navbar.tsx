@@ -2,8 +2,6 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
-// import { Menu, X } from "lucide-react";
-// import { Button } from "@/components/ui/button";
 import Image from "next/image";
 import Logo from "../../../assets/2.png"
 
@@ -47,9 +45,7 @@ export default function Navbar() {
             height={350}
             alt=""
           />
-          {/* <span className="text-2xl font-bold text-slate-800">
-            TR<span className="text-red-800">Sandori</span>
-          </span> */}
+
         </Link>
 
         {/* Desktop Navigation */}
@@ -67,7 +63,7 @@ export default function Navbar() {
 
       </div>
 
-      {/* Mobile Navigation Menu */}
+      Mobile Navigation Menu
      
     </header>
   );

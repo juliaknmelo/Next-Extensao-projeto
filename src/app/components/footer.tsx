@@ -16,12 +16,6 @@ export default function Footer() {
               Serviços profissionais de transporte terrestre com cobertura nacional, agendamento confiável e gestão de frotas de última geração.
             </p>
             <div className="flex gap-4">
-              {/* <a
-                href="#"
-                className="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-red-800 transition-colors"
-              >
-                <Facebook className="h-5 w-5" />
-              </a> */}
               
               <a
                 href="https://www.instagram.com/sandoritransportes/"  target="_blank"
@@ -61,11 +55,6 @@ export default function Footer() {
                   Contato
                 </Link>
               </li>
-              {/* <li>
-                <Link href="#work-with-us" className="text-slate-400 hover:text-red-500transition-colors">
-                  Careers
-                </Link>
-              </li> */}
             </ul>
           </div>
 
@@ -92,11 +81,7 @@ export default function Footer() {
                   Transporte especializado
                 </a>
               </li>
-              {/* <li>
-                <a href="#" className="text-slate-400 hover:text-orange-500 transition-colors">
-                  Fleet Management
-                </a>
-              </li> */}
+
             </ul>
           </div>
 

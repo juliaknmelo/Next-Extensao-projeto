@@ -1,9 +1,7 @@
 import Navbar from "@/app/components/navbar";
-import HeroSection from "@/app/components/secao-princi";
 import AboutSection from "@/app/components/secao-sobre";
 import ServicesSection from "@/app/components/secao-servicos";
 import ContactSection from "@/app/components/secao-contato";
-// import WorkWithUsSection from "@/app/components/secao-trabalhe"
 import Footer from "@/app/components/footer";
 import ScrollToTop from "@/app/components/scroll-to-top";
 import { Button } from "@/components/ui/button";
@@ -14,13 +12,14 @@ import {
   DropdownMenuTrigger,
   DropdownMenuContent,
 } from "@/components/ui/dropdown-menu";
+import PrinciSection from "@/app/components/secao-princi";
 
 export default function Home() {
   return (
     <div className="min-h-screen bg-white">
       <Navbar />
       <main>
-        <HeroSection />
+        <PrinciSection />
         <AboutSection />
         <ServicesSection />
         <ContactSection />

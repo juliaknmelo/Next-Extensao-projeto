@@ -7,7 +7,7 @@ import Link from "next/link";
 import Image from "next/image";
 import Foto from "../../../assets/foto2.png";
 
-export default function HeroSection() {
+export default function PrinciSection() {
   const sectionRef = useRef<HTMLElement>(null);
   const revealElements = useScrollReveal();
 
