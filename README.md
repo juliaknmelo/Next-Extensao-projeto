@@ -11,7 +11,7 @@ Com o objetivo de colocar em prática o aprendizado obtido durante o curso de An
 ## O Projeto
 Os requisitos solicitados era que o site fosse uma apresentação da empresa e de seus principais serviços, além de formas de entrar em contato. 
 
-Para atendimento dos requisitos foram desenvolvidos os componentes: footer, navbar, seção de contato, seção principal, seção de serviços e seção sobre. 
+Para atendimento dos requisitos foram desenvolvidos os componentes: footer, navbar, seção de contato, seção principal/Home, seção de serviços e seção sobre. 
 
 Além disso, foi criado um formulário onde o cliente pode entrar em contato para solicitar orçamento e um chatbot que consegue simular o valor de frete e encaminhar para o Whatsapp. 
 
@@ -26,7 +26,8 @@ O projeto pode ser acessado em: https://next-extensao-projeto.vercel.app/#home
 <img alt= "TypeScript" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"/>
 
 ## Resultados 
-
+- página Home 
+<img src="assets/results/Captura de tela 2025-06-16 182802.png">
 
 
 
