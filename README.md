@@ -30,6 +30,7 @@ O projeto pode ser acessado em: https://next-extensao-projeto.vercel.app/#home
   
 ![Imagem](src/results/img1.png)
 
+
 - Seção Sobre
 
 ![Imagem2](src/results/img2.png)
@@ -37,7 +38,9 @@ O projeto pode ser acessado em: https://next-extensao-projeto.vercel.app/#home
 
 - Seção Serviços
 
+
 ![Imagem3](src/results/img3.png)
+
 
 
 ![Imagem4](src/results/img4.png)
