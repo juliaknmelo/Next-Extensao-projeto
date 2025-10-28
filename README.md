@@ -27,21 +27,21 @@ O projeto pode ser acessado em: https://next-extensao-projeto.vercel.app/#home
 
 ## Resultados 
 - Seção Principal/Home (com navbar)
-<img src="src/results/Captura de tela 2025-06-16 182802.png"/>
+<img src="src/results/img1"/>
 
 - Seção Sobre
-<img src="src/results/Captura de tela 2025-06-16 182823.png"/>
+<img src="src/results/img2"/>
 
 - Seção Serviços
-<img src="src/results/Captura de tela 2025-06-16 182957.png"/>
-<img src="src/results/Captura de tela 2025-06-16 183013.png"/>
+<img src="src/results/img3"/>
+<img src="src/results/img4"/>
 
 
 - Seção Contato
-<img src="src/results/Captura de tela 2025-06-16 183029.png"/>
+<img src="src/results/img5"/>
 
 - Footer
-<img src="src/results/Captura de tela 2025-06-16 183042.png"/>
+<img src="src/results/img6"/>
 
 
 
