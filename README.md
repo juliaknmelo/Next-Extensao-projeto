@@ -1,4 +1,4 @@
-
+<img width="1898" height="906" alt="Captura de tela 2025-06-16 183013" src="https://github.com/user-attachments/assets/a176d73b-88a0-44e9-907f-d3ef9bc7cb31" />
 # Projeto acadêmico - Sandori Transportes
 
 
@@ -26,8 +26,22 @@ O projeto pode ser acessado em: https://next-extensao-projeto.vercel.app/#home
 <img alt= "TypeScript" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"/>
 
 ## Resultados 
-- página Home 
+- Seção Principal/Home (com navbar)
 <img src="src/results/Captura de tela 2025-06-16 182802.png"/>
+
+- Seção Sobre
+<img src="src/results/Captura de tela 2025-06-16 182823.png"/>
+
+- Seção Serviços
+<img src="src/results/Captura de tela 2025-06-16 182957.png"/>
+<img src="src/results/Captura de tela 2025-06-16 183013.png"/>
+
+
+- Seção Contato
+<img src="src/results/Captura de tela 2025-06-16 183029.png"/>
+
+- Footer
+<img src="src/results/Captura de tela 2025-06-16 183042.png"/>
 
 
 
