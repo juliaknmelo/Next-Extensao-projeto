@@ -27,7 +27,7 @@ O projeto pode ser acessado em: https://next-extensao-projeto.vercel.app/#home
 
 ## Resultados 
 - página Home 
-<img src="assets/results/Captura de tela 2025-06-16 182802.png">
+<img src="src/results/Captura de tela 2025-06-16 182802.png"/>
 
 
 
