@@ -1,4 +1,4 @@
-<img width="1898" height="906" alt="Captura de tela 2025-06-16 183013" src="https://github.com/user-attachments/assets/a176d73b-88a0-44e9-907f-d3ef9bc7cb31" />
+
 # Projeto acadêmico - Sandori Transportes
 
 
