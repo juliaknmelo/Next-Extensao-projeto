@@ -32,22 +32,22 @@ O projeto pode ser acessado em: https://next-extensao-projeto.vercel.app/#home
 
 - Seção Sobre
 
-![Imagem](src/results/img2.png)
+![Imagem2](src/results/img2.png)
 
 - Seção Serviços
 
-![Imagem](src/results/img3.png)
+![Imagem3](src/results/img3.png)
 
-![Imagem](src/results/img4.png)
+![Imagem4](src/results/img4.png)
 
 
 - Seção Contato
 
-![Imagem](src/results/img5.png)
+![Imagem5](src/results/img5.png)
 
 - Footer
 
-![Imagem](src/results/img6.png)
+![Imagem6](src/results/img6.png)
 
 
 
