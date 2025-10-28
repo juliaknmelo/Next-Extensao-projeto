@@ -27,7 +27,7 @@ O projeto pode ser acessado em: https://next-extensao-projeto.vercel.app/#home
 
 ## Resultados 
 - Seção Principal/Home (com navbar)
-<img src="src/results/img1"/>
+<img src="src/results/img1.png" />
 
 - Seção Sobre
 <img src="src/results/img2"/>
