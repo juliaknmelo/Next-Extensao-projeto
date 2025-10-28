@@ -15,9 +15,21 @@ Para atendimento dos requisitos foram desenvolvidos os componentes: footer, navb
 
 Além disso, foi criado um formulário onde o cliente pode entrar em contato para solicitar orçamento e um chatbot que consegue simular o valor de frete e encaminhar para o Whatsapp. 
 
+O projeto pode ser acessado em: https://next-extensao-projeto.vercel.app/#home
+
 ## Tecnologias utilizadas
 
 <img alt= "NextJs" src="https://img.shields.io/badge/NextJS-000000?logo=nextdotjs&logoColor=white&style=for-the-badge"/>
+
+<img alt= "TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge"/>
+
+<img alt= "TypeScript" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge"/>
+
+## Resultados 
+
+
+
+
 
 
 
